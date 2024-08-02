@@ -1,0 +1,51 @@
+[
+	{
+		"id": 1,
+		"name": "Starlin",
+		"category": "Piercing",
+        "detail":"Lorem",
+        "img": "https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+	},
+	{
+		"id": 2,
+		"name": "Starlin",
+		"category": "Piercing",
+        "detail":"Lorem",
+        "img": "https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+	},
+	{
+		"id": 3,
+		"name": "Starlin",
+		"category": "Piercing",
+        "detail":"Lorem",
+        "img": "https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+	},
+	{
+		"id": 4,
+		"name": "Starlin",
+		"category": "Piercing",
+        "detail":"Lorem",
+        "img": "https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+	},
+	{
+		"id": 5,
+		"name": "Starlin",
+		"category": "Tattoos",
+        "detail":"Lorem",
+        "img": "https://fotografias.larazon.es/clipping/cmsimages01/2023/11/15/340BCABE-CD91-43B8-844A-42AD8151B36F/lucha-conseguir-record-guinness-hombre-mas-tatuajes_98.jpg?crop=546,307,x0,y85&width=1900&height=1069&optimize=low&format=webply"
+	},
+	{   
+		"id": 6,
+		"name": "Starlin",
+		"category": "Tattoos",
+        "detail":"Lorem",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF1ZspWMsqnA-9tDz9KZrOkOhvXX93tAW5cg&s"
+	},
+	{
+		"id": 7,
+		"name": "Starlin",
+		"category": "Tattoos",
+        "detail":"Lorem",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwantxneed-gear.com%2Festilos-de-tatuajes%2F&psig=AOvVaw1DBmPVjKl8cDLAEDy0Aric&ust=1722652884188000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjO9Juk1YcDFQAAAAAdAAAAABAE"
+	}
+]
