@@ -1,6 +1,9 @@
-import carrito from "../assets/carrito.png";
-export const CartWidget = () => (
-<>
- <img src={carrito} height={30} /><span>5</span>
- </>
- );
+import { Link } from "react-router-dom";
+import cart from "../assets/cart.png";
+export const CartWidget = () => {
+    return (
+        <Link to="/cart">
+            <img src={cart} height={20} />4
+        </Link>
+    );
+};
